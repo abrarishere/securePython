@@ -29,7 +29,7 @@ This script allows you to perform ASCII-based encryption and decryption on text 
 3. **Run the script:**
 
     ```bash
-    python ascii.py
+    python keyboardAscii.py
     ```
 
 4. **Follow the prompts:**
