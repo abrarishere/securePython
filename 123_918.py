@@ -1,5 +1,3 @@
-
-
 def encrypt_decrypt_file(file_path, action):
     with open(file_path, 'r') as file:
         content = file.read()
